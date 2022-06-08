@@ -2,55 +2,26 @@
 
 # Project Name
 
-> Description the project.
-
+> The power of bootstrap
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- HTML 5
+- Bootstrap V
 
 ## Authors
 
-👤 **Author1**
+👤 **Author 1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [XsidX](https://github.com/XsidX)
+- Twitter: [@\_sid_o](https://twitter.com/_sid_o_)
+- LinkedIn: [Sidney Kaguli](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
 
-👤 **Author2**
+👤 **Author 2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/dodoburner)
+- Twitter: [@twitterhandle](https://twitter.com/DorianUrem)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dorian-urem-252baa237/)
 
 ## 🤝 Contributing
 
@@ -66,7 +37,8 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- Creator of Bootstrap
+- Microverseinc
 
 ## 📝 License
 
